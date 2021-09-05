@@ -19,4 +19,4 @@ Ce projet me permet de pousser mes conaissances dans la sphère de l'ingénérie
 L'oeuvre que j'ai préféré à notre sortie chez Mutek est le projet Flowing Water, Standing Time.je l'ai préféré, car leffet des vêtements du modèle qui se métarmorphose est ce que j'ai vu de plus impressionant. C'ette effet donne un aspec vivant à ce modèle. Cette exposition m'a permis d'expandre ma créativité au niveau esthétique.
 
 ## Publication sur Teams https://sat.qc.ca/fr/evenements/projections-mapping-video-place-de-la-paix
-Publier un de ces liens et la raison pour laquelle vous l'avez sélectionné sur le Teams. Votre lien doit être unique! Assurez-vous qu'aucun étudiant n'ait déjà publié le même. 
+Ce projet est une série d'oeuvres de mapping vidéo qui seront projetées sur la façade de l'Hôtel Zéro 1.Des étudiants du programme Design & Computation Arts de l'Université Concordia auront la chance de présenté leur projet deant un grande foule. J'ai choisi de présenter ce rojet avec la classe parcque je pense que c'est une opportunité de nous inspirer d'autres étudiants qui ont un parcour similaire aux notres.
