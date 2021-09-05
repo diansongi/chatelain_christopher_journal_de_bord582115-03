@@ -9,14 +9,14 @@ J'ai choisi ce projet parceque il a comme but de créer des oeuvre numérique in
 J'ai sélectionner ce lien, car Zero Latency est un des leader mondial en réalité virtuelle multijoueurs en déplacement libre. Je m'intéresse énormément à la technologie de la réalité virtuelle. Je voudrais intégrer cette technologie dans un de mes futurs projets.
 
 ### Lien 3 https://www.audiotopie.com/fragmentation
-J'ai choisi cette oeuvre parceque elle est une oeuvre publique accesible à tout le monde. elle sensibilise l'importance de la biodiversité. une valeur qui m'est importante.
-ce projet me permet de pousser mes conaissances dans la sphère de l'ingenerie du son.
+J'ai choisi cette oeuvre parceque elle est une oeuvre publique accesible à tout le monde. Elle sensibilise l'importance de la biodiversité, une valeur qui m'est importante.
+Ce projet me permet de pousser mes conaissances dans la sphère de l'ingénérie du son.
 
 ### Lien 4 https://akousma.ca/Akousma-Audiotopie
  Je me suis intéressé à cette oeuvre, car l'artiste Léa Boudreau emmène un aspect au multimédia que je n'ai jamais entendu parlé, sois à la relation entre la nature et la technologie. La relation entre ces 2 mots qui me semble contradictoire me fascine.
 
 ### Lien 5 https://montreal.mutek.org/fr/gallery/exposition-mutek-2021
-L'oeuvre que j'ai préféré à notre sortie chez Mutek est le projet Flowing Water, Standing Time.je l'ai préféré, car leffet des vêtements du modèle qui se métarmorphose est ce que j'ai vu de plus impressionant. C'ette effet donne un aspec vivant à ce modèle. cette exposition m'a permis d'expandre ma créativité au niveau esthétique.
+L'oeuvre que j'ai préféré à notre sortie chez Mutek est le projet Flowing Water, Standing Time.je l'ai préféré, car leffet des vêtements du modèle qui se métarmorphose est ce que j'ai vu de plus impressionant. C'ette effet donne un aspec vivant à ce modèle. Cette exposition m'a permis d'expandre ma créativité au niveau esthétique.
 
 ## Publication sur Teams https://sat.qc.ca/fr/evenements/projections-mapping-video-place-de-la-paix
 Publier un de ces liens et la raison pour laquelle vous l'avez sélectionné sur le Teams. Votre lien doit être unique! Assurez-vous qu'aucun étudiant n'ait déjà publié le même. 
