@@ -1,7 +1,7 @@
 # Cours 2
 ## Présentation des liens
 
-### Lien 1 
+### Lien 1 https://sat.qc.ca/fr/evenements/hacklab21
 Expliquer pourquoi vous avez choisi ce lien. En quoi pourrait-il contribuer à votre démarche artistique? Pourquoi vous intéresse-t-il? Écrire 2 à 3 lignes par lien. 
 
 ### Lien 2 
