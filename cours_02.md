@@ -13,7 +13,7 @@ J'ai choisi cette oeuvre parceque elle est une oeuvre publique accesible à tout
 ce projet me permet de pousser mes conaissances dans la sphère de l'ingenerie du son.
 
 ### Lien 4 https://akousma.ca/Akousma-Audiotopie
-Expliquer pourquoi vous avez choisi ce lien. 
+ Je me suis intéressé a cette ouevre, car l'artiste Léa Boudreau emmène un aspect au multimédia que je n'ai jamais entendu parlé, sois à la relation entre la nature et la technologie. La relation entre ces 2 mots qui me semble contradictoire me fascine.
 
 ### Lien 5 https://montreal.mutek.org/fr/gallery/exposition-mutek-2021
 Expliquer pourquoi vous avez choisi ce lien.  
