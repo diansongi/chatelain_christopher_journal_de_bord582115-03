@@ -2,10 +2,11 @@
 ## Présentation des liens
 
 ### Lien 1 https://musicmotion.org/hacklab21#formule
-Expliquer pourquoi vous avez choisi ce lien. En quoi pourrait-il contribuer à votre démarche artistique? Pourquoi vous intéresse-t-il? Écrire 2 à 3 lignes par lien. 
+
+J'ai choisi ce projet parceuqe il a comme but de créer des oeuvre numérique interactives pour les non voyants et des personnes ayant des capacités réduites. Il a un but d'inclusion et relève de nombreux défis techniques afin d'acommoder les expositions a des personnes nont voyant et a mobilité réduite.  
 
 ### Lien 2 https://www.zerolatencyvr.ca/fr/
-Expliquer pourquoi vous avez choisi ce lien.
+
 
 ### Lien 3 https://www.audiotopie.com/fragmentation
 Expliquer pourquoi vous avez choisi ce lien.  
