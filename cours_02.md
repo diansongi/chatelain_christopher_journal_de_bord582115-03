@@ -9,7 +9,8 @@ J'ai choisi ce projet parceque il a comme but de créer des oeuvre numérique in
 J'ai sélectionner ce lien, car Zero Latency est un des leader mondial en réalité virtuelle multijoueurs en déplacement libre. Je m'intéresse énormément à la technologie de la réalité virtuelle. Je voudrais intégrer cette technologie dans un de mes futurs projets.
 
 ### Lien 3 https://www.audiotopie.com/fragmentation
-Expliquer pourquoi vous avez choisi ce lien.  
+J'ai choisi cette oeuvre parceque elle est une oeuvre publique accesible à tout le monde. elle sensibilise l'importance de la biodiversité. une valeur qui m'est importante.
+ce projet me permet de pousser mes conaissances dans la sphère de l'ingenerie du son.
 
 ### Lien 4 https://akousma.ca/Akousma-Audiotopie
 Expliquer pourquoi vous avez choisi ce lien. 
