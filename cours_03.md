@@ -13,12 +13,11 @@ Cet d'emploi concerne un poste pour devenir Designer UX dans la compagnie de ubi
 
 ### Emploi 3 - Identification https://jobs.lever.co/momentfactory/300d7408-9d46-478f-ab92-d2d1290e7716
 
-Cet d'emploi concerne un poste pour devenir Motion Designer sénior. les taches reliés a cette emploi sont évaluer et décider des techniques de production appropriée, création de design et d’animation de contenus visuels pour des installations multimédias permanentes et temporaires.les employé travaillent dans les bureaux de Motion Designerà montréal.Les qualitées requises de cet emploi sont l'habileté en gestion de projet,avoir une Vision créative, autonomie et une bonne capacité d'adaptation. Ce qui m'intéresse le plus de cet emploi est qu'il ofrre 5 jours de maladies payées.De l'autre coté, ce qui me déplaie le plus de ce poste est qu'il est possible que je travaile sur des travaux occasionnels en dehors des heures régulières de bureau.
+Cet d'emploi concerne un poste pour devenir Motion Designer sénior. Les taches reliés à cette emploi sont évaluer et décider des techniques de production appropriée, création de design et d’animation de contenus visuels pour des installations multimédias permanentes et temporaires.Les employé travaillent dans les bureaux de Motion Designer à Montréal. Les qualitées requises sont Autonomie, sens de l’initiative et capacité à gérer les imprévus l'habileté en gestion de projet,avoir une Vision créative, autonomie et une bonne capacité d'adaptation. Ce qui m'intéresse le plus de cet emploi est qu'il ofrre 5 jours de maladies payées.De l'autre coté, ce qui me déplaie le plus de ce poste est qu'il est possible que je travaile sur des travaux occasionnels en dehors des heures régulières de bureau.
 
 ### Emploi 4 - Identification https://jobs.lever.co/momentfactory/a5a5bb5d-8e97-4a0f-8708-9ef0b28d707a
 
-Cet d'emploi concerne un poste pour devenir Développeur-se Créatif-ve : TouchDesigner
-
+Cet d'emploi concerne un poste pour devenir Développeur Créatif:TouchDesigner. Les taches reliés à cette emploi sont Programmer des effets visuels temps réels basés sur des intentions artistiques et alimenter le processus créatif et proposer des solutions novatrices.Les employé travaillent dans les bureaux de Motion Designerà Montréal. Les qualitées requises pour ce poste sont la capacité de gérer les imprévus, l'autonomie et le sens de l'initiative.Ce qui m'intéresse le plus de cet emploi est le fait qu'il y a de la  nourriture offerte gratuitement au studio durant l'été.
 ### Emploi 5 - Identification https://jobs.lever.co/momentfactory/d35574fe-98a4-49d0-836f-ed88ebfba662
 
 Cet d'emploi concerne un poste pour devenir Assistant-e technique
