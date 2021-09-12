@@ -13,7 +13,8 @@ Cet d'emploi concerne un poste pour devenir Designer UX dans la compagnie de ubi
 
 ### Emploi 3 - Identification https://jobs.lever.co/momentfactory/300d7408-9d46-478f-ab92-d2d1290e7716
 
-Cet d'emploi concerne un poste pour devenir Motion Designer sénior
+Cet d'emploi concerne un poste pour devenir Motion Designer sénior. les taches reliés a cette emploi sont évaluer et décider des techniques de production appropriée, création de design et d’animation de contenus visuels pour des installations multimédias permanentes et temporaires.les qualitées requises a cet emploi sont l'habileté en gestion de projet,
+ avoir une Vision créative, autonomie et une bonne capacité d'adaptation.
 
 ### Emploi 4 - Identification https://jobs.lever.co/momentfactory/a5a5bb5d-8e97-4a0f-8708-9ef0b28d707a
 
