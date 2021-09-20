@@ -2,8 +2,7 @@
 ## Décrire 5 emplois du domaine du multimédia
 Choisissez des emplois qui pourraient vous intéresser. 
 
-### Emploi 1 - Identification https://jobs.lever.co/momentfactory/99c188cc-8c4b-4053-abf4-6766c9a78011
-Écrire 4 à 5 lignes. Parler des tâches reliées à l'emploi. Expliquer où ces personnes travaillent. Décrire les qualités requises pour pratiquer ce métier. Un point qui vous intéresse dans ce métier. Un point qui rend ce métier moins intéressant pour vous.  
+### Emploi 1 - Identification https://jobs.lever.co/momentfactory/99c188cc-8c4b-4053-abf4-6766c9a78011 
 
 Cet emploi est pour devenir Designer interactif (IxD) de la compagnie de Moment Factory. Les taches reliés à cet emploi est la maitrise de l’expérience utilisateurs (UX) et le design des interfaces utilisateurs (UI) des projets interactifs.L'employer utulise son esprit d’analyse et crée des designs graphiques.  Les employés de cette entreprises travaillent la majorité du temps dans le studio de Moment Factory à montréal. Les qualitées requises pour cet emloie est la créativité, la persévérence et le travail d'équipe.Le point qui m'intéresse le plus dans cette emploie est l'accès à un reer collectif avantageux pour sees employés.Ce qui me déplaie le plus de ce emploi c'est qu'il requiert d'une qualification universitaire.
 
