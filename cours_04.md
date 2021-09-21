@@ -18,4 +18,4 @@ Ubisoft et Wix. Je m'indentifie à Ubisoft par rapport à son originalité et  l
 Où vous voyez-vous dans 5 ans? 
 
 ### Projets
-Expliquez un ou des projets que vous aimeriez faire. 
+Expliquez un ou des projets que vous aimeriez faire. Un des projets que j'aimerais réaliser est la création d'une application afin de promouvoir l'éducation à travers une plateforme numérique. L'idée serait de créer une application afin d'apprendre des langues africaines.Une plateforme similaire a Duolingo.
