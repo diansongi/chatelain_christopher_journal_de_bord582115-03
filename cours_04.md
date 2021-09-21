@@ -15,7 +15,6 @@ Les emplois qui m'intéresse sont développeur web et développeur d'application
 Nommez une entreprise et un artiste auxquels vous vous identifiez et expliquez pourquoi. 
 Ubisoft et Wix. Je m'indentifie à Ubisoft par rapport à son originalité et  la diversité de type de jeux vidéo qu'ils créent.
 ### Dans 5 ans
-Où vous voyez-vous dans 5 ans? 
-
+Dans 5 si je ne travaille pas dans une compagnie je me vois travailler pour mon compte.
 ### Projets
 Expliquez un ou des projets que vous aimeriez faire. Un des projets que j'aimerais réaliser est la création d'une application afin de promouvoir l'éducation à travers une plateforme numérique. L'idée serait de créer une application afin d'apprendre des langues africaines.Une plateforme similaire a Duolingo.
