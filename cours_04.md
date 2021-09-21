@@ -6,7 +6,7 @@ Parlez de vous
 Je m'apelle christopher. C'es ma troisième session au collège Montmorency.J'ai passé mes deux première session en tremplic DEC. 
 ### Intérêts dans le domaine
 Parlez de vos intérêts en multimédia. 
-Je m'intérèsse au développement web et d'applications mobiles. S'assurer la conservation de l'efficacité de la plateforme créé. J'aime la programmation et tout ce qui englobe les langues de programmation tels: html, Java script, Python, css. creation de maquette filaire.Je m'intéresse aussi au design Ux. l'art de créer la meilleure expérience utilisateur possible grace a certaines méthodes.architecture de l'information étudier le marché.
+Je m'intérèsse au développement web et d'applications mobiles. S'assurer la conservation de l'efficacité de la plateforme créé. J'aime la programmation et tout ce qui englobe les langues de programmation tels: html, Java script, Python, css. J'apprécie aussi la  creation de maquette filaire,au design Ux et l'architecture de l'information.  Je m'intéresse aussi à l'art de créer la meilleure expérience utilisateur possible grace a certaines méthodes. Ça m'intéresse de comprendre la psychologie de l'utilisateur pour rendre  ma page web plus intéressante. le marché .
 ### Emplois qui vous intéressent
 Les emplois qui m'intéresse sont développeur web et développeur d'applications mobiles.
 
