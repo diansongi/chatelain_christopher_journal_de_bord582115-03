@@ -13,7 +13,7 @@ Les emplois qui m'intéresse sont développeur web et développeur d'application
 
 ### Identification
 Nommez une entreprise et un artiste auxquels vous vous identifiez et expliquez pourquoi. 
-Ubisoft et Wix. Ubisoft
+Ubisoft et Wix. Je m'indentifie à Ubisoft par rapport à son originalité et  la diversité de type de jeux vidéo qu'ils créent.
 ### Dans 5 ans
 Où vous voyez-vous dans 5 ans? 
 
