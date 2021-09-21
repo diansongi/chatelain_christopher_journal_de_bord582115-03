@@ -2,13 +2,14 @@
 ## Plan de présentation
 
 ### Présentation
-Parlez de vous. 
-
+Parlez de vous
+J m'apelle christopher. C'es ma troisième session au collège montmorency.J'ai passé mes deux première session en tremplic DEC. j'ai passé 
 ### Intérêts dans le domaine
 Parlez de vos intérêts en multimédia. 
-
+Je m'intérèsse à la programmation. le language html, java script.
 ### Emplois qui vous intéressent
-Nommez deux emplois.
+Nommez deux emplois
+
 
 ### Identification
 Nommez une entreprise et un artiste auxquels vous vous identifiez et expliquez pourquoi. 
