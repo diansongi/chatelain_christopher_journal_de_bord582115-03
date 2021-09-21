@@ -3,12 +3,12 @@
 
 ### Présentation
 Parlez de vous
-J m'apelle christopher. C'es ma troisième session au collège montmorency.J'ai passé mes deux première session en tremplic DEC. j'ai passé 
+Je m'apelle christopher. C'es ma troisième session au collège Montmorency.J'ai passé mes deux première session en tremplic DEC. 
 ### Intérêts dans le domaine
 Parlez de vos intérêts en multimédia. 
-Je m'intérèsse à la programmation. le language html, java script.
+Je m'intérèsse au développement web et d'applications mobiles. S'assurer la conservation de l'efficacité de la plateforme créé. J'aime la programmation et tout ce qui englobe les langues de programmation tels: html, Java script, Python. 
 ### Emplois qui vous intéressent
-Nommez deux emplois
+Les emplois qui m'intéresse sont développeur web et développeur d'applications mobiles.
 
 
 ### Identification
