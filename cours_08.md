@@ -8,6 +8,8 @@ Suggestions de sites où trouver des palettes de couleur:
 
 ## Choix d'un thème 
 Explorer les thèmes dans l'outil de présentation numérique de votre choix. Choississez 3 thèmes que vous aimez bien et notez les dans votre journal. Vous pouvez aussi insérer des images de ces thèmes. 
+![palette](https://user-images.githubusercontent.com/89608202/141649233-b537467c-9b71-4f03-81c9-d79733cdd5b7.png)
+
 
 #### Outil de présentation:    
 Thème 1 | Thème 2 | Thème 3
