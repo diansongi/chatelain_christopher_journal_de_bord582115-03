@@ -18,4 +18,4 @@ Explorer les thèmes dans l'outil de présentation numérique de votre choix. Ch
 #### Outil de présentation:    
 Thème 1 | Thème 2 | Thème 3
 --| -- | --
-Ciel  | Nuage informatique | Nuage informatique 
+Ciel  | Nuage informatique | One drive 
