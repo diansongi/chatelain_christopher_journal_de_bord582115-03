@@ -16,4 +16,8 @@ Nommer les technologies reliées au projet.
 
 
 ### Analyse critique
-Faites une analyse critique du projet. En quoi est-il pertinent? Sur quels aspects pourrait-il être amélioré? Quels sont ses points forts? En quoi ce projet est-il original? 
+Faites une analyse critique du projet. En quoi est-il pertinent? Sur quels aspects pourrait-il être amélioré? Quels sont ses points forts? En quoi ce projet est-il original?
+
+![analyse_critique](https://user-images.githubusercontent.com/89608202/141650442-f6708cd6-7104-4887-8753-a8c77d7d1ee0.JPG)
+
+
