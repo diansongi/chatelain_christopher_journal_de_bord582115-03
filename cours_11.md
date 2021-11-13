@@ -4,6 +4,7 @@ Durée: 5 à 7 minutes
 
 ### Présentation
 Parlez du projet multimédia sélectionné. 
+La tête dans le nuage est une exposition produit par le Musée de la civilization. Cette dernière est disponible sur le site du musée de la civilization. Elle se présente sur une exposition virtuelle. Elle traite de la révolution numérique dans tous les aspects de notre vie, tant au niveau économique, social et militaire.
 
 ### Carte heuristique
 Joindre la carte heuristique du projet. 
