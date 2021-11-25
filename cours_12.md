@@ -1,4 +1,4 @@
 # Cours 12
 ## Création de scénarimage
 Créer un scénarimage et le joindre ici: 
-![chevalier](images 124243.jpg
+![Chevalier](image/124243.jpg)
