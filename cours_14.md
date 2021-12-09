@@ -20,7 +20,10 @@ Décrivez les grandes lignes de votre projet.
 Montrer nous l'allure visuelle et sonore qu'aura votre projet à l'aide d'un moodboard, de maquettes ou de croquis. 
 
 ![plateform](image/iz2l7n04kaa31.jpg)
-![plateform](image/Screenshot-2019-05-09-at-14.04.28.png)
+![plateform](image/Screenshot-2019-05-09-at-14.04.28.png![style](image/8bitst.jpg)
+![viking](image/Vikings-Ubisoft-Assassin's-Creed-Valhalla-Eivor-axes-Video-Game-Art-video-game-characters-drakkar-ship-warrior-video-games-1863259.jpg)
+![plateform](image/serpent-echelle.png)
+
 
 ### Technologies
  Code Qr
