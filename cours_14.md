@@ -10,9 +10,9 @@ Viking Échelle est un jeux hybride dont est utilisé des codes Qr à travers le
 C'est un jeux hybride entre jeux de société et jeux vidéo.
 Il utilise du graphisme 8bits.
 Il suit les mêmes r`gles que serpents échelles.
-Le th`me du projets sont les vikings.
+Le thème du projet sont les vikings.
 
-Décrivez les grandes lignes de votre projet. 
+
 
 ### Schéma du projet ou scénarimage
 ![plateform](image/Scénarimage-board-00001.png)
