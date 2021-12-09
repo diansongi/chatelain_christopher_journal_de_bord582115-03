@@ -3,7 +3,7 @@
 Durée: 8 à 10 minutes
 
 ### Résumer votre projet en une phrase
-Résumer le projet en une phrase concise.   
+Viking Échelle est un jeux hybride dont est utilisé des codes Qr à travers leur téléphone afin de pouvoir avancer son pion dans le jeu de société.
 
 ### Description du projet 
 Décrivez les grandes lignes de votre projet. 
@@ -15,7 +15,14 @@ Expliquer le déroulement de votre expérience grâce à un schéma narratif ou 
 Montrer nous l'allure visuelle et sonore qu'aura votre projet à l'aide d'un moodboard, de maquettes ou de croquis. 
 
 ### Technologies
-Décrivez quelles seront les technologies utilisées dans votre projet. 
+ Code Qr
 
 ### Étapes de réalisation
-Quelles sont les étapes nécessaires à la réalisation de votre projet? Essayez de placer ces étapes dans un échéancier. 
+Animation 2D
+Gestionnaire de projet
+Développeur front-end
+Développeur back-end
+Programmation
+Directeur Artistique
+Contrôle de aualité
+
