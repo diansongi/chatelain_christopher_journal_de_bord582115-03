@@ -9,7 +9,12 @@ Viking Échelle est un jeux hybride dont est utilisé des codes Qr à travers le
 Décrivez les grandes lignes de votre projet. 
 
 ### Schéma du projet ou scénarimage
-Expliquer le déroulement de votre expérience grâce à un schéma narratif ou à un scénarimage. 
+![plateform](image/Scénarimage-board-00001.png)
+![plateform](image/Scénarimage-board-00002.png)
+![plateform](image/Scénarimage-board-00003.png)
+![plateform](image/Scénarimage-board-00004.png)
+![plateform](image/Scénarimage-board-00005.png)
+![plateform](image/Scénarimage-board-00006.png)
 
 ### Moodboard
 Montrer nous l'allure visuelle et sonore qu'aura votre projet à l'aide d'un moodboard, de maquettes ou de croquis. 
