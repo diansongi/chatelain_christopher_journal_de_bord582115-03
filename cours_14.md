@@ -19,6 +19,8 @@ Décrivez les grandes lignes de votre projet.
 ### Moodboard
 Montrer nous l'allure visuelle et sonore qu'aura votre projet à l'aide d'un moodboard, de maquettes ou de croquis. 
 
+![plateform](image/iz2l7n04kaa31.jpg)
+
 ### Technologies
  Code Qr
 
